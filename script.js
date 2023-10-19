@@ -3,6 +3,6 @@
 // }
 
 function Redirect() {
-    window.locate="https://google.com"
+    window.location.href = "https://youtu.be/dQw4w9WgXcQ?si=JkLeM3-8Zp0GeF5O";
 }
 Redirect()
